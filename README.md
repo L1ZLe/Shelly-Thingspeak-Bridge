@@ -37,7 +37,7 @@ This JavaScript code establishes a connection between two MQTT brokers, one host
 4. **Message Handling**: When messages are received from the Shelly Plug S broker, it extracts the data, stores it, and publishes it to the ThingSpeak broker when both power and temperature values are received.
 5. **Error Handling**: The code handles any connection errors that may occur.
 
-## Connecting Shelly Plug S to MQTT using MQTT.fx (For visualization)
+## Connecting Shelly Plug S to MQTT using MQTT.fx (Optional)
 
 To connect Shelly Plug S devices to an MQTT broker using MQTT.fx (you can also use mosquitto as an alternative), follow these steps for MQTT.fx:
 
