@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "mqtt": "^5.5.0"
+  }
+}
